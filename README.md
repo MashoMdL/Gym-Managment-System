@@ -1,5 +1,6 @@
-![pulselogo](https://github.com/user-attachments/assets/f804dc4b-e98d-4aa1-ae09-d70006bcd5e6)
+![pulselogo](https://github.com/user-attachments/assets/940f22e4-bd04-404b-a7c7-8d877de5d61a)
 # Gym Management System
+
 
 Welcome to the **Gym Management System**. This is a full-stack web application designed to manage gym operations efficiently. It includes features for both the admin and staff, as well as providing a customer registration system. The system is built using **PHP**, **MySQL**, and front-end technologies such as **HTML**, **CSS**, and **JavaScript**.
 
@@ -46,18 +47,16 @@ Welcome to the **Gym Management System**. This is a full-stack web application d
 ## Screenshots
 
 ### 1. Admin Login Page
-![image](https://github.com/user-attachments/assets/a543b118-c83f-4299-8a6b-23c70ae3414a)
-
+![image](https://github.com/user-attachments/assets/4c418f7e-230c-4bae-a624-8dae6b092242)
 
 ### 2. Staff Login Page
-![Staff Login Page](https://github.com/user-attachments/assets/d876433a-5245-4e93-a7fd-ed09c3a1719e)
+![image](https://github.com/user-attachments/assets/f459c05d-ab54-4a56-a29f-4e9e2517491b)
 
 ### 3. Customer Register Page
-![Customer Register Page](https://github.com/user-attachments/assets/e8555b88-0e85-4db7-a5e6-8ae3eddefbed)
+![image](https://github.com/user-attachments/assets/f060c555-9a1f-45d2-bb63-23b9f34290db)
 
 ### 4. Admin Dashboard Overview
-![Admin Dashboard](https://github.com/user-attachments/assets/14a6cdc5-bd6d-4334-8dcc-96c9d49c1d98)
-
+![screencapture-localhost-gymsystem-admin-index-php-2025-02-15-11_57_53](https://github.com/user-attachments/assets/6da7a01c-3995-46c3-b50b-4f792d8cbe12)
 ## Installation
 
 To set up this project locally:
